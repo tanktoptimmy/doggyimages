@@ -51,7 +51,7 @@ async function downloadDogImages(dogsArray: typeof dogs) {
 
       const imgUrl = imgElement.src;
       const ext = outputFormat === 'jpeg' ? '.jpg' : '.webp';
-      const fileName = dog.breed.replace(/\s+/g, '_') + ext;
+      const fileName = dog.breed.toLowerCase().replace(/\s+/g, '_') + ext;
       const filePath = path.resolve('./images', fileName);
 
       fs.mkdirSync(path.dirname(filePath), { recursive: true });
