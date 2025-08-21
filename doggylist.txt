@@ -1,202 +1,198 @@
-Affenpinscher
-Afghan Hound
-Airedale Terrier
-Akita
-Alaskan Malamute
-American Cocker Spaniel
-American Water Spaniel
-Anatolian Shepherd Dog
-Australian Cattle Dog
-Australian Shepherd
-Australian Silky Terrier
-Australian Terrier
-Azawakh
-Barbet
-Basenji
-Basset Hound
-Bavarian Mountain Hound
-Beagle
-Bearded Collie
-Beauceron
-Bedlington Terrier
-Belgian Shepherd Dog
-Bergamasco
-Bernese Mountain Dog
-Bichon Frise
-Black and Tan Coonhound
-Bloodhound
-Bolognese
-Border Collie
-Border Terrier
-Borzoi
-Boston Terrier
-Bouvier des Flandres
-Boxer
-Bracco Italiano
-Braque D’Auvergne
-Briard
-Brittany
-Bull Terrier
-Bulldog
-Bullmastiff
-Cairn Terrier
-Canaan Dog
-Canadian Eskimo Dog
-Catalan Sheepdog
-Cavalier King Charles Spaniel
-Cesky Terrier
-Chesapeake Bay Retriever
-Chihuahua
-Chinese Crested
-Chow Chow
-Cirneco Dell'Etna
-Clumber Spaniel
-Cocker Spaniel
-Collie
-Coton De Tulear
-Curly Coated Retriever
-Dachshund
-Dalmatian
-Dandie Dinmont Terrier
-Deerhound
-Dobermann
-Dogue de Bordeaux
-English Setter
-English Springer Spaniel
-English Toy Terrier
-Entlebucher Mountain Dog
-Estrela Mountain Dog
-Eurasier
-Field Spaniel
-Finnish Lapphund
-Finnish Spitz
-Flat Coated Retriever
-Fox Terrier
-Foxhound
-French Bulldog
-German Pointer
-German Pinscher
-German Shepherd Dog
-German Pointer
-German Spitz
-Giant Schnauzer
-Glen of Imaal Terrier
-Golden Retriever
-Gordon Setter
-Grand Bleu De Gascogne
-Great Dane
-Great Swiss Mountain Dog
-Greenland Dog
-Greyhound
-Griffon Bruxellois
-Griffon Fauve De Bretagne
-Hamiltonstovare
-Harrier
-Havanese
-Hovawart
-Hungarian Kuvasz
-Hungarian Mudi
-Hungarian Puli
-Hungarian Pumi
-Hungarian Vizsla
-Ibizan Hound
-Icelandic Sheepdog
-Irish Red & White Setter
-Irish Setter
-Irish Terrier
-Irish Water Spaniel
-Irish Wolfhound
-Italian Greyhound
-Italian Spinone
-Jack Russell Terrier
-Japanese Akita Inu
-Japanese Chin
-Japanese Shiba Inu
-Japanese Spitz
-Keeshond
-Kerry Blue Terrier
-King Charles Spaniel
-Komondor
-Kooikerhondje
-Korean Jindo
-Korthals Griffon
-Lagotto Romagnolo
-Labrador Retriever
-Lakeland Terrier
-Lancashire Heeler
-Large Munsterlander
-Leonberger
-Lhasa Apso
-Lowchen
-Maltese
-Manchester Terrier
-Maremma Sheepdog
-Mastiff
-Miniature Pinscher
-Miniature Poodle
-Miniature Schnauzer
-Neapolitan Mastiff
-Newfoundland
-Norfolk Terrier
-Norwegian Buhund
-Norwegian Elkhound
-Norwich Terrier
-Nova Scotia Duck Tolling Retriever
-Old English Sheepdog
-Otterhound
-Papillon
-Parson Russell Terrier
-Pekingese
-Pharaoh Hound
-Picardy Sheepdog
-Pointer
-Polish Hunting Dog
-Polish Lowland Sheepdog
-Pomeranian
-Portuguese Podengo
-Portuguese Pointer
-Portuguese Water Dog
-Pug
-Pyrenean Mastiff
-Pyrenean Mountain Dog
-Pyrenean Sheepdog
-Retriever
-Rhodesian Ridgeback
-Rottweiler
-Russian Black Terrier
-Russian Toy
-Saint Bernard
-Saluki
-Samoyed
-Schipperke
-Scottish Terrier
-Sealyham Terrier
-Shar Pei
-Shetland Sheepdog
-Shih Tzu
-Siberian Husky
-Skye Terrier
-Sloughi
-Slovakian Rough Haired Pointer
-Small Munsterlander
-Soft-Coated Wheaten Terrier
-Spanish Water Dog
-Staffordshire Bull 
-Standard Poodle
-Sussex Spaniel
-Swedish Lapphund
-Swedish Vallhund
-Tibetan Mastiff
-Tibetan Spaniel
-Tibetan Terrier
-Toy Poodle
-Turkish Kangal Dog
-Weimaraner
-Welsh Springer Spaniel
-Welsh Corgi
-Welsh Terrier
-West Highland White Terrier
-Whippet
-White Swiss Shepherd Dog
-Xoloitzcuintle
-Yorkshire Terrier
+Affenpinscher https://commons.wikimedia.org/wiki/File:Affenpinscher_dog.jpg
+Afghan Hound https://commons.wikimedia.org/wiki/File:Ohle01.jpg
+Airedale Terrier https://commons.wikimedia.org/wiki/File:Airedale-terrier-charles14m.jpg
+Alaskan Malamute https://commons.wikimedia.org/wiki/File:Alaskan_Malamute_-_panoramio.jpg
+American Cocker Spaniel https://commons.wikimedia.org/wiki/File:American_Cocker_Spaniel_buff_portrait.jpg
+American Water Spaniel https://commons.wikimedia.org/wiki/File:American_Water_Spaniel_3.JPG
+Anatolian Shepherd Dog https://commons.wikimedia.org/wiki/File:Anatolian_Shepherd_Dog.jpg
+Australian Cattle Dog https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog_Chessie.jpg
+Australian Shepherd https://commons.wikimedia.org/wiki/File:Blue_Merle_Australian_Shepherd_%22Luke%22.jpg
+Australian Silky Terrier https://commons.wikimedia.org/wiki/File:Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg
+Australian Terrier https://commons.wikimedia.org/wiki/File:Australian_Terrier_Kruemel_in_der_Abendsonne.jpg
+Azawakh https://commons.wikimedia.org/wiki/File:Arabian_Hound_001_U.jpg
+Barbet https://commons.wikimedia.org/wiki/File:Barbet_suka_2009_pl4.jpg
+Basenji https://commons.wikimedia.org/wiki/File:2008-05-01_a_Basenji_03.jpg
+Basset Hound https://commons.wikimedia.org/wiki/File:Basset-hound_duo.jpg
+Bavarian Mountain Hound https://commons.wikimedia.org/wiki/File:2005-09_Zoran_1.jpg
+Beagle https://commons.wikimedia.org/wiki/File:A_beagle_sitting_on_a_sofa.jpg
+Bearded Collie https://commons.wikimedia.org/wiki/File:Bearded_Collie.jpg
+Beauceron https://commons.wikimedia.org/wiki/File:Beauceron_uros.jpg
+Bedlington Terrier https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg
+Belgian Shepherd Dog https://commons.wikimedia.org/wiki/File:Mechelse_herder.jpg
+Bergamasco https://commons.wikimedia.org/wiki/File:Bergamasco_600.jpg
+Bernese Mountain Dog https://commons.wikimedia.org/wiki/File:Bernese_Mountain_DOg.jpg
+Bichon Frise https://commons.wikimedia.org/wiki/File:Bichon_Frise_and_Poodle_breed_dogs.jpg
+Black and Tan Coonhound https://commons.wikimedia.org/wiki/File:Black_And_Tan_Coonhound.jpg
+Bloodhound https://commons.wikimedia.org/wiki/File:Bloodhound_Erland22.jpg
+Bolognese https://commons.wikimedia.org/wiki/File:Bichon_bolognes.JPG
+Border Collie https://commons.wikimedia.org/wiki/File:Border_Collie_at_beach.jpg
+Border Terrier https://commons.wikimedia.org/wiki/File:Border_Terrier_Kamu.jpg
+Borzoi https://commons.wikimedia.org/wiki/File:Borzoi_(915531525).jpg
+Boston Terrier https://commons.wikimedia.org/wiki/File:Boston_Terrier_Adulto.png
+Bouvier des Flandres https://commons.wikimedia.org/wiki/File:Ygor_Raiza.jpg
+Boxer https://commons.wikimedia.org/wiki/File:Boxer_female_brown.jpg
+Bracco Italiano https://commons.wikimedia.org/wiki/File:Giotto_BI.jpg
+Braque D’Auvergne https://commons.wikimedia.org/wiki/File:Braque_d_Auvergne.jpg
+Briard https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG
+Brittany https://commons.wikimedia.org/wiki/File:Brittany_Spaniel_standing.jpg
+Bull Terrier https://commons.wikimedia.org/wiki/File:Bullterrier-3453301920.jpg
+Bulldog https://commons.wikimedia.org/wiki/File:Bulldog_inglese.jpg
+Bullmastiff https://commons.wikimedia.org/wiki/File:Bullmastiff_Junghund_1_Jahr.jpg
+Cairn Terrier https://commons.wikimedia.org/wiki/File:Cairn_Terrier_-_002.jpg
+Canaan Dog https://commons.wikimedia.org/wiki/File:CanaanDog3.jpg
+Canadian Eskimo Dog https://commons.wikimedia.org/wiki/File:Spoonsced.jpg
+Catalan Sheepdog https://commons.wikimedia.org/wiki/File:Gos-d%27Atura-Catala.jpg
+Cavalier King Charles Spaniel https://commons.wikimedia.org/wiki/File:Cavalier_King_Charles_Spaniels_(2821585840).jpg
+Cesky Terrier https://commons.wikimedia.org/w/index.php?search=Cesky+Terrier&title=Special%3AMediaSearch&type=image
+Chesapeake Bay Retriever https://commons.wikimedia.org/wiki/File:Chesapeake_Bay_Retriever1.jpg
+Chihuahua https://commons.wikimedia.org/wiki/File:Chihuahualongcoat.jpg
+Chinese Crested https://commons.wikimedia.org/wiki/File:IndyStands.jpg
+Chow Chow https://commons.wikimedia.org/wiki/File:Chow_Moletai_May_2014_2.jpg
+Cirneco Dell'Etna https://commons.wikimedia.org/wiki/File:CIRNECO_DELL%27ETNA,_FEMMINA_3_ANNI.jpg
+Cocker Spaniel https://commons.wikimedia.org/wiki/File:EnglishCockerSpaniel_wb.jpg
+Collie https://commons.wikimedia.org/wiki/File:Rough-Collie-japan08_(cropped).jpg
+Coton De Tulear https://commons.wikimedia.org/wiki/File:Coton_de_Tular_2.jpg
+Curly Coated Retriever https://commons.wikimedia.org/w/index.php?search=Curly+Coated+Retriever&title=Special%3AMediaSearch&type=image
+Dachshund https://commons.wikimedia.org/wiki/File:MiniDachshund1_wb.jpg
+Dalmatian https://commons.wikimedia.org/wiki/File:%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%82%D0%B8%D0%BD_Bernard_De_Lore.jpg
+Dandie Dinmont Terrier https://commons.wikimedia.org/wiki/File:Bonfire_Buddy.jpg
+Deerhound https://commons.wikimedia.org/wiki/File:Karrie.JPG
+Dobermann https://commons.wikimedia.org/wiki/File:Young_Dobermann_Male.jpg
+Dogue de Bordeaux https://commons.wikimedia.org/wiki/File:DJT_0086.jpg
+English Setter https://commons.wikimedia.org/wiki/File:English_Setter_on_field_walk.jpg
+English Springer Spaniel https://commons.wikimedia.org/wiki/File:Engelsk_springer_spaniel.jpg
+English Toy Terrier https://commons.wikimedia.org/wiki/File:English_Toy_Terrier_600_01.jpg
+Entlebucher Mountain Dog https://commons.wikimedia.org/wiki/File:Entlebucher2_wb.jpg
+Estrela Mountain Dog https://commons.wikimedia.org/wiki/File:Estrela_Mountain_Dog,_bitch_(20249089853).jpg
+Eurasier https://commons.wikimedia.org/wiki/File:Eurasier.jpg
+Field Spaniel https://commons.wikimedia.org/wiki/File:Field-black1.jpg
+Finnish Lapphund https://commons.wikimedia.org/wiki/File:Finnishlapphundbrown%26tan1.jpg
+Finnish Spitz https://commons.wikimedia.org/wiki/File:FINNISH_SPITZ.jpg
+Flat Coated Retriever https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever.jpg
+Fox Terrier https://commons.wikimedia.org/wiki/File:Wire_Fox_Terrier_Image_001.jpg
+Foxhound https://commons.wikimedia.org/wiki/File:BIR_Grupp_6-_AMERICAN_FOXHOUND,_J%C3%A4%C3%A4r%C3%A4p%C3%A4%C3%A4_Flikka_(23607404123).jpg
+French Bulldog https://commons.wikimedia.org/wiki/File:French_bulldog_on_the_grass.jpg
+German Pointer https://commons.wikimedia.org/wiki/File:Duitse_staande_korthaar_10-10-2.jpg
+German Pinscher https://commons.wikimedia.org/wiki/File:German_Pinscher.JPG
+German Shepherd Dog https://commons.wikimedia.org/wiki/File:German_Shepherd_-DSC_0346(10096362833).jpg
+German Pointer https://commons.wikimedia.org/wiki/File:Bahia_c_d_beskuren.jpg
+German Spitz https://commons.wikimedia.org/wiki/File:German_spitz_(Mittel).jpg
+Giant Schnauzer https://commons.wikimedia.org/wiki/File:Bvdb-riesen_schnauzer.jpg
+Glen of Imaal Terrier https://commons.wikimedia.org/wiki/File:Wheaten_glen_of_imaal.jpg
+Golden Retriever https://commons.wikimedia.org/wiki/File:Golden_Retriever_2020_9.jpg
+Gordon Setter https://commons.wikimedia.org/wiki/File:Orrvilas_enska_w800px.jpg
+Grand Bleu De Gascogne https://commons.wikimedia.org/wiki/File:Isogascognenak.jpg
+Great Dane https://commons.wikimedia.org/wiki/File:Gt._Dane,_Lucy.JPG
+Great Swiss Mountain Dog https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Sennenhund.jpg
+Greenland Dog https://commons.wikimedia.org/wiki/File:Greenland_dog_upernavik_2007-06-02_sample.jpg
+Greyhound https://commons.wikimedia.org/wiki/File:GraceTheGreyhound.jpg
+Griffon Bruxellois https://commons.wikimedia.org/wiki/File:Petit_Braban%C3%A7on.jpg
+Griffon Fauve De Bretagne https://commons.wikimedia.org/wiki/File:08115500_Griffon_Fauve_Bretagne.jpg
+Hamiltonstovare https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg
+Harrier https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg
+Havanese https://commons.wikimedia.org/wiki/File:Bichon_Havanais_Pair.JPG
+Hovawart https://commons.wikimedia.org/wiki/File:Hovawart-H%C3%BCndin_Lenka_IMG_9368.JPG
+Hungarian Kuvasz https://commons.wikimedia.org/wiki/File:DocFile_Kuvasz.jpg
+Hungarian Mudi https://commons.wikimedia.org/wiki/File:Hondenras_Mudi.jpg
+Hungarian Puli https://commons.wikimedia.org/wiki/File:Puli_in_Riga_2.JPG
+Hungarian Pumi https://commons.wikimedia.org/wiki/File:Pumi_kuty%C3%A1m.jpg
+Hungarian Vizsla https://commons.wikimedia.org/wiki/File:Vizsla_standing_Rosie_harness.jpg
+Ibizan Hound https://commons.wikimedia.org/wiki/File:Podenco_z_ibizy_645.jpg
+Icelandic Sheepdog https://commons.wikimedia.org/wiki/File:Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg
+Irish Red & White Setter https://commons.wikimedia.org/wiki/File:Red_And_White_Setter_in_Tallinn_2.JPG
+Irish Setter https://commons.wikimedia.org/wiki/File:Can_Setter_dog_GFDL.jpg
+Irish Terrier https://commons.wikimedia.org/wiki/File:Irish_Terrier_CR.jpg
+Irish Water Spaniel https://commons.wikimedia.org/wiki/File:Ierse_Water_Spaniel.jpg
+Irish Wolfhound https://commons.wikimedia.org/wiki/File:Irish_Wolfhound_%C3%86thel.jpg
+Italian Greyhound https://commons.wikimedia.org/wiki/File:Goethe_piccolo_levriero_italiano.jpg
+Italian Spinone https://commons.wikimedia.org/wiki/File:05042336_Spinone_orange.jpg
+Jack Russell Terrier https://commons.wikimedia.org/wiki/File:Chien_Jack_Russell_terrier_(02).jpg
+Japanese Akita Inu https://commons.wikimedia.org/wiki/File:Akita-inu-colori.jpg
+Japanese Chin https://commons.wikimedia.org/wiki/File:Japanese_Chin_dog.jpg
+Japanese Spitz https://commons.wikimedia.org/wiki/File:JapaneseSp1.jpg
+Keeshond https://commons.wikimedia.org/wiki/File:Keeshond_002_U.jpg
+Kerry Blue Terrier https://commons.wikimedia.org/wiki/File:Kerry_blue_terrier_062009.JPG
+King Charles Spaniel https://commons.wikimedia.org/wiki/File:Cavalier_King_Charles_Spaniel_(1491375362).jpg
+Komondor https://commons.wikimedia.org/wiki/File:Komondor_IMG_0329.JPG
+Kooikerhondje https://commons.wikimedia.org/wiki/File:Kooiker04.jpg
+Korean Jindo https://commons.wikimedia.org/wiki/File:CHUNDOONG.png
+Korthals Griffon https://commons.wikimedia.org/wiki/File:Korthalsgriffon.jpg
+Lagotto Romagnolo https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo_Female_3.5_Years_Old_Brown_with_White_Markings.jpg
+Labrador Retriever https://commons.wikimedia.org/wiki/File:Black_Labrador_Retriever_kiddie_pool..jpg
+Lakeland Terrier https://commons.wikimedia.org/wiki/File:Lakeland_Terrier.jpg
+Lancashire Heeler https://commons.wikimedia.org/wiki/File:Grupp_1,_LANCASHIRE_HEELER,_NO_UCH_NO_V-14_NO_V-15_SE_UCH_St%C3%A5hlskyttens_Longed_For_Antony_(24284065606).jpg
+Large Munsterlander https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_M%C3%BCnsterl%C3%A4nder_PM16_1.jpg
+Leonberger https://commons.wikimedia.org/wiki/File:Leonberg-Male-Adulte-Ursus.jpg
+Lhasa Apso https://commons.wikimedia.org/wiki/File:Lhasa_Apso_5328b.jpg
+Lowchen https://commons.wikimedia.org/wiki/File:Sissi_vomHansh%C3%A4ger_Fliederberg.jpg
+Maltese https://commons.wikimedia.org/wiki/File:01_AKC_Maltese_Dog_Show_2013.jpg
+Manchester Terrier https://commons.wikimedia.org/wiki/File:Oscar_-Herbst_1.jpg
+Maremma Sheepdog https://commons.wikimedia.org/wiki/File:Cane_da_pastore_Maremmano-Abruzzese.jpg
+Mastiff https://commons.wikimedia.org/wiki/File:Pied_Mastiff.jpg
+Miniature Pinscher https://commons.wikimedia.org/wiki/File:Pinczer_Miniaturowy.jpg
+Miniature Poodle https://commons.wikimedia.org/wiki/File:Pudel_2005.JPG
+Miniature Schnauzer https://commons.wikimedia.org/wiki/File:Miniature_Schnauzer_on_grass,_Short_Summer_Cut_(Named_%22Fox%22_or_%22Mr._Sir%22).jpg
+Neapolitan Mastiff https://commons.wikimedia.org/wiki/File:Standing_Neo.jpg
+Newfoundland https://commons.wikimedia.org/wiki/File:Newfoundland_brown.jpg
+Norfolk Terrier https://commons.wikimedia.org/wiki/File:Kofi_in_tartan_2.jpg
+Norwegian Buhund https://commons.wikimedia.org/wiki/File:Grupp_5NORSK_BUHUND,_C.I.B._JWW-08_NORD_UCH_SE_V-10_VDH_CH_Gnipagrottans_Gullan_Lillt%C3%B6sen_(23661375943).jpg
+Norwegian Elkhound https://commons.wikimedia.org/wiki/File:Norwegian_Elkhound_1.jpg
+Norwich Terrier https://commons.wikimedia.org/wiki/File:Norwich_Terrier_2.jpg
+Nova Scotia Duck Tolling Retriever https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck_Tolling_Retriever_Female.jpg
+Old English Sheepdog https://commons.wikimedia.org/wiki/File:Bobtail.JPG
+Otterhound https://commons.wikimedia.org/wiki/File:Two_otterhounds.jpg
+Papillon https://commons.wikimedia.org/wiki/File:Papillon_running.JPG
+Parson Russell Terrier https://commons.wikimedia.org/wiki/File:Parson-of-Pirates-Bela.jpg
+Pekingese https://commons.wikimedia.org/wiki/File:Pekingese_Moletai_May_2014.jpg
+Pharaoh Hound https://commons.wikimedia.org/wiki/File:Arlo_Equinox.jpg
+Picardy Sheepdog https://commons.wikimedia.org/wiki/File:Picard_Delice_Stacked.jpg
+Pointer https://commons.wikimedia.org/wiki/File:English-pointer-164115.jpg
+Polish Hunting Dog https://commons.wikimedia.org/wiki/File:%D0%A4%D0%B0%D0%B3%D0%BE%D1%82_5.JPG
+Polish Lowland Sheepdog https://commons.wikimedia.org/wiki/File:PolishLowland1.jpg
+Pomeranian https://commons.wikimedia.org/wiki/File:Pomeranian_orange-sable_Coco.jpg
+Portuguese Podengo https://commons.wikimedia.org/wiki/File:Podengo_Portugues.jpg
+Portuguese Pointer https://commons.wikimedia.org/wiki/File:Portuguesepointer2.jpg
+Portuguese Water Dog https://commons.wikimedia.org/wiki/File:Portekiz_su_kopegi.jpg
+Pug https://commons.wikimedia.org/wiki/File:Pug_on_chair.jpg
+Pyrenean Mastiff https://commons.wikimedia.org/wiki/File:MasPiri-Lula-ESP.jpg
+Pyrenean Mountain Dog https://commons.wikimedia.org/wiki/File:Great_Pyrenees_Mountain_Dog.jpg
+Pyrenean Sheepdog https://commons.wikimedia.org/wiki/File:Berger-des-Pyrenees_Aurore_0800x0600.jpg
+Rhodesian Ridgeback https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_(6_years).jpg
+Rottweiler https://commons.wikimedia.org/wiki/File:03_Snow_Bunny_Talitha_Rottweiler.jpg
+Russian Black Terrier https://commons.wikimedia.org/wiki/File:Wystawa_Rybnik_02.10.2011_czarny_terier_rosyjski_2pl.jpg
+Russian Toy https://commons.wikimedia.org/wiki/File:Russian_toy_puppy_4mo.jpg
+Saint Bernard https://commons.wikimedia.org/wiki/File:A_young_St.Bernard_dog-_Shanu_playing_on_snow.jpg
+Saluki https://commons.wikimedia.org/wiki/File:Persian_Saluki.JPG
+Samoyed https://commons.wikimedia.org/wiki/File:11.10.2015_Samoyed.jpg
+Schipperke https://commons.wikimedia.org/wiki/File:Shipp_23_QurreS06.jpg
+Scottish Terrier https://commons.wikimedia.org/wiki/File:Scottish_Terrier_from_1915.JPG
+Sealyham Terrier https://commons.wikimedia.org/wiki/File:Sealyham_Terrier_-_Ricky.1.jpg
+Shar Pei https://commons.wikimedia.org/wiki/File:Rocky_m%C3%A9g_mindig_b%C3%BCd%C3%B6s.jpg
+Shetland Sheepdog https://commons.wikimedia.org/wiki/File:Berger_des_shetland.jpg
+Shih Tzu https://commons.wikimedia.org/wiki/File:Shih_Tzu_Reference_-19.jpg
+Siberian Husky https://commons.wikimedia.org/wiki/File:Siberian_Husky_.jpg
+Skye Terrier https://commons.wikimedia.org/wiki/File:Skye_terrier_800.jpg
+Sloughi https://commons.wikimedia.org/wiki/File:Djebel_Mahanajim_rotsandfarbener_Sloughi_R%C3%BCde.JPG
+Slovakian Rough Haired Pointer https://commons.wikimedia.org/wiki/File:Bella_z_Milhostovskych_poli.jpg
+Small Munsterlander https://commons.wikimedia.org/wiki/File:Kleiner_M%C3%BCnsterl%C3%A4nder_I.jpg
+Soft-Coated Wheaten Terrier https://commons.wikimedia.org/wiki/File:Soft-coated_wheaten_terrier.jpg
+Spanish Water Dog https://commons.wikimedia.org/wiki/File:BIR_Grupp_8-_PERRO_DE_AGUA_ESPANOL,_Tussbergets_Zucc%C3%A9_(24151665851).jpg
+Staffordshire Bull https://commons.wikimedia.org/wiki/File:Staffordshire-bull-terrier-black-2836990.jpg
+Standard Poodle https://commons.wikimedia.org/wiki/File:Standard_poodle_apricot.jpg
+Sussex Spaniel https://commons.wikimedia.org/wiki/File:Sussexinspa2.jpg
+Swedish Lapphund https://commons.wikimedia.org/wiki/File:Svensk_lapphund.JPG
+Swedish Vallhund https://commons.wikimedia.org/wiki/File:Swedish_Vallhund_December_2012_005.JPG
+Tibetan Mastiff https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Tibetan_Mastiff_GCH_Sierras%27Sasha-Yakone_Nanuk_(8469240739)_(cropped).jpg
+Tibetan Spaniel https://commons.wikimedia.org/wiki/File:TibetanSpanielBuddy.jpg
+Tibetan Terrier https://commons.wikimedia.org/wiki/File:Tibetan_terrier.jpg
+Toy Poodle https://commons.wikimedia.org/wiki/File:White_Toy_poodle.jpg
+Turkish Kangal Dog https://commons.wikimedia.org/wiki/File:Kangal-welpen-de_003.jpg
+Weimaraner https://commons.wikimedia.org/wiki/File:Braque_de_Weimar_femelle_Poil_court.JPG
+Welsh Springer Spaniel https://commons.wikimedia.org/wiki/File:Welsh_springer_spaniel_cwrt_afon_aled.jpg
+Welsh Corgi https://commons.wikimedia.org/wiki/File:Pembroke_Welsh_Corgi_Puppy.jpg
+Welsh Terrier https://commons.wikimedia.org/wiki/File:Welsh_Terrier.JPG
+West Highland White Terrier https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_Krakow.jpg
+Whippet https://commons.wikimedia.org/wiki/File:Resting_whippet.jpg
+White Swiss Shepherd Dog https://commons.wikimedia.org/wiki/File:Berger_Blanc_Suisse.png
+Xoloitzcuintle https://commons.wikimedia.org/wiki/File:Xolo_mini_Moletai_May_2014.jpg
+Yorkshire Terrier https://commons.wikimedia.org/wiki/File:Yorkshire_Terrier_DSC_7599.jpg
